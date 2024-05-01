@@ -85,12 +85,15 @@ endmodule
 ```
 
 Logic symbol & Truthtable image
+
 ![318839227-6dc88b9a-afd7-4346-825e-da489a73e28e](https://github.com/radhi2005/study-of-basic-gates/assets/167347086/97152d07-9030-497f-bc74-b6c982b6469c)
 
 RTL realization Output: image
+
 ![318839389-600475e2-91b5-4548-849f-1a4f77f9b519](https://github.com/radhi2005/study-of-basic-gates/assets/167347086/b3a052e7-68ee-4315-80f8-51a9155efc09)
 
 RTL WhatsApp Image 2024-04-04 at 09 44 59_50a9e642
+
 ![319441338-2d0b9d25-d7f7-4a4f-a631-b91847e1abfc](https://github.com/radhi2005/study-of-basic-gates/assets/167347086/86c669ce-5094-4a9a-ae82-36c055a56861)
 
 Result: Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
